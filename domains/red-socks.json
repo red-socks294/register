@@ -1,0 +1,12 @@
+{
+  "description": "My website",
+  "repo": "https://github.com/red-socks294/red-socks294.github.io",
+  "owner": {
+    "username": "red-socks294",
+    "email": "aquifer_warmth_0z@icloud.com",
+    "discord": "red_socks294"
+  },
+  "record": {
+    "CNAME": "red-socks294.github.io"
+  }
+}
